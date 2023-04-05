@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.33414.496
+VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "eTickets", "eTickets\eTickets.fsproj", "{C18A36F6-D4F5-44FD-9803-F65936E406DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTickets", "eTickets\eTickets.csproj", "{D4164387-657A-4951-9100-83B0ED11C44F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C18A36F6-D4F5-44FD-9803-F65936E406DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C18A36F6-D4F5-44FD-9803-F65936E406DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C18A36F6-D4F5-44FD-9803-F65936E406DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C18A36F6-D4F5-44FD-9803-F65936E406DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4164387-657A-4951-9100-83B0ED11C44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4164387-657A-4951-9100-83B0ED11C44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4164387-657A-4951-9100-83B0ED11C44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4164387-657A-4951-9100-83B0ED11C44F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7C2CAE08-D633-4C98-AADA-50C031BFBA7A}
+		SolutionGuid = {32572CA3-D49D-4604-A8D1-730F15EE1D45}
 	EndGlobalSection
 EndGlobal
